@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type_etymology: MyString
+  language: MyString
+  graeco_latin_etymology: MyString
+  pattern: MyString
+  meaning_etymology: MyString
+  image_etymology: MyString
+
+two:
+  type_etymology: MyString
+  language: MyString
+  graeco_latin_etymology: MyString
+  pattern: MyString
+  meaning_etymology: MyString
+  image_etymology: MyString
